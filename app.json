@@ -1,6 +1,6 @@
 {
-    "name": "idon-tnow",
-    "description": "idon-tnow",
+    "name": "idontnow",
+    "description": "idontnow",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
